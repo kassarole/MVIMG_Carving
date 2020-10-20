@@ -1,3 +1,4 @@
+# Written by Kevin Rode
 import os, exiftool
 for file in os.listdir(os.getcwd()):
     try:
