@@ -1,4 +1,4 @@
-# Written by Kevin Rode
+# Written by Kass Rode
 import os, exiftool
 for file in os.listdir(os.getcwd()):
     try:
